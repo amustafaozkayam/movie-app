@@ -4,7 +4,7 @@
 
 ### Links
 
-- Live Site URL: 
+- Live Site URL:  https://amustafaozkayam.github.io/movie-app/
 
 
 ### The challenge
